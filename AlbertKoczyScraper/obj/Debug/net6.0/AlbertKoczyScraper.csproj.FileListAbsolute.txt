@@ -1,0 +1,15 @@
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\bin\Debug\net6.0\AlbertKoczyScraper.exe
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\bin\Debug\net6.0\AlbertKoczyScraper.deps.json
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\bin\Debug\net6.0\AlbertKoczyScraper.runtimeconfig.json
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\bin\Debug\net6.0\AlbertKoczyScraper.dll
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\bin\Debug\net6.0\ref\AlbertKoczyScraper.dll
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\bin\Debug\net6.0\AlbertKoczyScraper.pdb
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\AlbertKoczyScraper.csproj.AssemblyReference.cache
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\AlbertKoczyScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\AlbertKoczyScraper.AssemblyInfoInputs.cache
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\AlbertKoczyScraper.AssemblyInfo.cs
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\AlbertKoczyScraper.csproj.CoreCompileInputs.cache
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\AlbertKoczyScraper.dll
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\ref\AlbertKoczyScraper.dll
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\AlbertKoczyScraper.pdb
+C:\Users\alufers\source\repos\AlbertKoczyScraper\AlbertKoczyScraper\obj\Debug\net6.0\AlbertKoczyScraper.genruntimeconfig.cache
